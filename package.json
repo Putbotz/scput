@@ -2,7 +2,7 @@
   "name": "Alphabot",
   "version": "0.14.1",
   "description": "What'sApp Bot By Putbotz",
-  "zeeone": "zeeone.js",
+  "zeeone": "npm start",
   "directories": {
     "lib": "lib"
   },
