@@ -1,7 +1,7 @@
 {
-  "name": "Alphabot",
+  "name": "Putbotz",
   "version": "0.14.1",
-  "description": "WhatsApp bot",
+  "description": "What'sApp Bot By Putbotz",
   "zeeone": "zeeone.js",
   "directories": {
     "lib": "lib"
